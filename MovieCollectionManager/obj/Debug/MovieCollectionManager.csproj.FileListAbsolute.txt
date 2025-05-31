@@ -1,0 +1,16 @@
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\obj\Debug\MovieCollectionManager.csproj.AssemblyReference.cache
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\obj\Debug\MovieCollectionManager.csproj.CoreCompileInputs.cache
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\MovieCollectionManager.exe.config
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\MovieCollectionManager.exe
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\MovieCollectionManager.pdb
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\EntityFramework.dll
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\EntityFramework.xml
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\obj\Debug\MovieCol.3F0824CA.Up2Date
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\obj\Debug\MovieCollectionManager.exe
+C:\Users\I\Desktop\C# задачи\MovieCollectionManager\MovieCollectionManager\obj\Debug\MovieCollectionManager.pdb
