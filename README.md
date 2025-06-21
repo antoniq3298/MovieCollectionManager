@@ -1,4 +1,5 @@
 # MovieCollectionManager 🎬
+![Image 21 06 2025 г , 14_05_44](https://github.com/user-attachments/assets/b27b306b-b93d-4f1d-b341-cde3922e1eab)
 
 **MovieCollectionManager** is a simple desktop application written in C# that allows users to manage their personal movie collection. It uses an SQLite database to store information such as title, genre, release year, and rating.
 
