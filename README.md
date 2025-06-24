@@ -9,6 +9,7 @@
 - .NET Framework
 - SQLite
 - Visual Studio
+-  xUnit (unit testing)
 
 ## 📦 Features
 
